@@ -1,0 +1,21 @@
+# Virtual Environment
+venv/
+
+# Python Cache Files
+__pycache__/
+*.pyc
+
+# Data Files (Adjust based on your project needs)
+data/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# IDE and Editor Configurations
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# OS Generated Files
+Thumbs.db
+.DS_Store
